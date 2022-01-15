@@ -1,0 +1,4 @@
+com/reptilefury/animations/BuildConfig.java
+ com.reptilefury.animations.BuildConfig
+com/reptilefury/animations/databinding/ActivityMainBinding.java
+ com.reptilefury.animations.databinding.ActivityMainBinding
